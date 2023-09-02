@@ -1,0 +1,31 @@
+URL: http://awoiaf.westeros.org/index.php/The_Winds_of_Winter
+        Parsing URL... host awoiaf.westeros.org, port 80, request /index.php/The_Winds_of_Winter
+        Doing DNS... done in 24 ms, found 172.67.74.15
+        * Connecting on page... done in 46 ms
+        Loading... done in 7856 ms with 91866 bytes
+        Verifying header... status code 200
+        Dechunking... body size was 90899, now 90663
+        + Parsing page... done in 0 ms with 323 links
+---------------------------------------------------------
+HTTP/1.1 200 OK
+Date: Mon, 19 Sep 2022 02:10:51 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+X-Content-Type-Options: nosniff
+Set-Cookie: PHPSESSID=m2tpr54u78a49q1sau9vlbrq43; path=/
+Pragma: no-cache
+Content-language: en
+X-UA-Compatible: IE=Edge
+Vary: Accept-Encoding, Cookie
+Last-Modified: Mon, 19 Sep 2022 02:02:08 GMT
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: private, max-age=0, s-maxage=300
+Accept-Ranges: bytes
+X-Cache: HIT
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=QdDJ0HTpEEcEBNvVjmyPn3cYZElEP4CzXg82TEVdHCD9LpHXb0.000000SWjlK2WP3xBByP1HPRnU1jJ5wdkjxhg1wSH5lIvDgACHumayp0.000000q1qnUeIEBJFgKrbFBCcZqgYEh54x66ZxnFYD"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 74cec9832dc76fb3-IAD
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
